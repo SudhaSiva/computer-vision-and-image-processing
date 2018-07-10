@@ -2,7 +2,7 @@
 """
 Created on Thu Jul  5 09:39:06 2018
 
-@author: 320021099
+
 """
 
 #!/usr/bin/env python
